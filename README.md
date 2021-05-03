@@ -6,7 +6,7 @@ The purpose of this analysis is to gain further information regarding temperatur
 
 ## Results
 
-Comparing the [June statistics](./images/june_stats.png) and the [December statistics](./images/dec_stats.png), the descriptive statistics are higher in June compared to December, as summer typically has warmer weather compared to winter.
+Comparing the [June statistics](./images/june_stats.PNG) and the [December statistics](./images/dec_stats.PNG), the descriptive statistics are higher in June compared to December, as summer typically has warmer weather compared to winter.
 
 ## Summary
 
